@@ -20,7 +20,7 @@ function App() {
   }, [loading , page])
 
   return (
-    <div className="container pt-5" style={{ backgroundColor:'red' }}>
+    <div className="container pt-5">
       {loading && (
         <div className="d-flex justify-content-center">
           <div className="spinner-border"></div>
