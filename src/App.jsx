@@ -3,7 +3,7 @@ import usePaginationFetch from "./usePaginationFetch";
 import Card from "./Components/Card/card";
 import Pagination from "./Components/Pagination/pagination";
 
-const url = "https://react-mini-projects-api.classbon.com/Programmer/programmers";
+const url = "/api/Programmer/programmers";
 
 function App() {
 
