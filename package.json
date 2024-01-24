@@ -1,5 +1,5 @@
 {
-  "name": "client-pagination",
+  "name": "server-pagination",
   "private": true,
   "version": "0.0.0",
   "type": "module",
